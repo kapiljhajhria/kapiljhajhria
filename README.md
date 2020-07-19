@@ -19,7 +19,7 @@ A news reader mobile app and a website focused on the tech community.
 -->
 **Screenshots**
 
-<img src="https://mclarentimes.com/images/topSection_compressed.png" height="450" /><img src="https://mclarentimes.com/images/suggestion_compressed.png" height="450" style="padding-left:20px"/>
+<img src="https://raw.githubusercontent.com/kapiljhajhria/kapiljhajhria/master/screenshots/mclarentimespreview.png" height="450" /><img src="https://raw.githubusercontent.com/kapiljhajhria/kapiljhajhria/master/screenshots/mclarentimes_vote_screen.png" height="450" style="padding-left:20px"/>
 
 
 ### TicTacToe Game - [Google Play](https://bit.ly/3fIxhvb) | [GitHub Repo](https://bit.ly/2CJEFYJ)
@@ -32,18 +32,8 @@ game in terminal
 
 **Screenshots**
 
-![](https://raw.githubusercontent.com/McLarenCollege/McLarenCollege/master/screenshots/tictactoe_1.png)
+!<img src=https://raw.githubusercontent.com/kapiljhajhria/kapiljhajhria/master/screenshots/tictactoe-android.png height="450" />
 ![](https://raw.githubusercontent.com/McLarenCollege/McLarenCollege/master/screenshots/tictactoe_2.png)
-
-### TicTacToe Game - [Google Play]() | [GitHub Repo](https://github.com)
-Classical 2 player game with nice graphics and animations.
-
-**⚡️ Built with: Flutter and Dart**
-- Used encapsulation to keep the `game` logic separate from Flutter. So the same codebase can be used even for running the 
-game in terminal
-- Learnt about animations in Flutter and created custom animation curve.
-
-**Screenshots**
 
 
 ## Education
@@ -51,7 +41,7 @@ game in terminal
 - **Program: Full Stack Online Course**
 - **Period: Oct 2019 - Jun 2020 (9 Months)**
 
-The first three months of this course was a full-time online class focused on mobile app development. The remaining six months involved part-time study of full-stack web development and part-time paid work experience on Upcover Insurance app/McLaren Times (see above).
+The first three months of this course was a full-time online class focused on mobile app development. The remaining six months involved part-time study of full-stack web development and part-time paid work experience on McLaren Times (see above).
 
 I successfully passed 3 out of 3 course modules:
 - Flutter App Developed
