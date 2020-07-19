@@ -21,6 +21,15 @@ A news reader mobile app and a website focused on the tech community.
 
 <img src="https://raw.githubusercontent.com/kapiljhajhria/kapiljhajhria/master/screenshots/mclarentimespreview.png" height="450" /><img src="https://raw.githubusercontent.com/kapiljhajhria/kapiljhajhria/master/screenshots/mclarentimes_vote_screen.png" height="450" style="padding-left:20px"/>
 
+### Random Quotes - [Google Play](https://bit.ly/3eN3xMu) | [GitHub Repo](https://bit.ly/3h9Jtp8)
+Random Quotes app built using flutter & Rest API.
+
+- Dark/Light Theme
+- Ability to turn Animation On/Off
+
+**Screenshots**
+
+<img src=https://raw.githubusercontent.com/kapiljhajhria/kapiljhajhria/master/screenshots/rm_quotes02.png height="450" /> <img src=https://raw.githubusercontent.com/kapiljhajhria/kapiljhajhria/master/screenshots/rm_quotes01.png height="450" />
 
 ### TicTacToe Game - [Google Play](https://bit.ly/3fIxhvb) | [GitHub Repo](https://bit.ly/2CJEFYJ)
 Classical 2 player game with nice graphics and animations.
@@ -32,9 +41,9 @@ game in terminal
 
 **Screenshots**
 
-!<img src=https://raw.githubusercontent.com/kapiljhajhria/kapiljhajhria/master/screenshots/tictactoe-android.png height="450" />
-![](https://raw.githubusercontent.com/McLarenCollege/McLarenCollege/master/screenshots/tictactoe_2.png)
-
+<img src=https://raw.githubusercontent.com/kapiljhajhria/kapiljhajhria/master/screenshots/rm_tic_tac_toe.png height="450" />
+<!-- ![](https://raw.githubusercontent.com/McLarenCollege/McLarenCollege/master/screenshots/tictactoe_2.png)
+ -->
 
 ## Education
 ###  McLaren College
