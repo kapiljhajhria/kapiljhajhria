@@ -8,6 +8,7 @@ A news reader mobile app and a website focused on the tech community.
 
 **⚡️ Built with**
 - Flutter 
+- React
 - Firebase Database
 - Firebase Cloud Functions
 - AWS S3 for storing JSON files
@@ -44,6 +45,18 @@ game in terminal
 <img src=https://raw.githubusercontent.com/kapiljhajhria/kapiljhajhria/master/screenshots/rm_tic_tac_toe.png height="450" />
 <!-- ![](https://raw.githubusercontent.com/McLarenCollege/McLarenCollege/master/screenshots/tictactoe_2.png)
  -->
+ 
+ ## Web Projects
+ ### [Movie Database](https://kapiljhajhria.github.io/movie_grid/) - [Github](https://github.com/kapiljhajhria/movie_grid) 
+  A Responsive Movie Database website developed using React framework.  
+ **⚡️ Built with**
+ - React
+ - Rest API
+ 
+ **Screenshots**
+ 
+ <img src="https://raw.githubusercontent.com/kapiljhajhria/kapiljhajhria/master/screenshots/movie-database.jpg" height="450" />
+
 
 ## Education
 ###  McLaren College
