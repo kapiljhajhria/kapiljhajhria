@@ -48,7 +48,7 @@ game in terminal
  
  ## Web Projects
  ### [Movie Database](https://kapiljhajhria.github.io/movie_grid/) - [Github](https://github.com/kapiljhajhria/movie_grid) 
-  A Responsive Movie Database website developed using React framework.  
+  A Responsive Movie Database website developed using React Framework.  
  **⚡️ Built with**
  - React
  - Rest API
@@ -56,6 +56,13 @@ game in terminal
  **Screenshots**
  
  <img src="https://raw.githubusercontent.com/kapiljhajhria/kapiljhajhria/master/screenshots/movie-database.jpg" height="450" />
+
+ ### [MarkDown Editor](https://kapiljhajhria.github.io/markdown-editor/) - [Github](https://github.com/kapiljhajhria/markdown-editor) 
+  Markdown Editor made using React Framework.  
+ 
+ **Screenshots**
+ 
+ <img src="https://raw.githubusercontent.com/kapiljhajhria/kapiljhajhria/master/screenshots/markdowneditor.png" height="450" />
 
 
 ## Education
