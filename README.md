@@ -1,6 +1,7 @@
 ## Hi, I am Kapil Jhajhria! 👋
 I am a Full Stack Web and Mobile app Developer based in Gurgaon, India. I enjoy programming Flutter apps in Dart and web apps using React JS.
 
+![Kapil's github stats](https://github-readme-stats.vercel.app/api?username=kapiljhajhria&show_icons=true)
 Here are some of the projects I have worked on:
 ## Mobile Apps
 ### [McLaren Times](http://mclarentimes.com/) - [Google Play](https://play.google.com/store/apps/details?id=com.mclarencollege.mclarentimesapp) | [App Store](https://apps.apple.com/us/app/id1499247126)
@@ -78,3 +79,5 @@ I successfully passed 3 out of 3 course modules:
 - Core Javascript Proficiency
 
 [More detailed curriculum](https://mclarencollege.in/course-curriculum.html)
+
+
